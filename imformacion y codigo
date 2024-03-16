@@ -142,3 +142,5 @@ async function run () {
 } 
 
 run ();
+
+quiero recalcar que el codigo que estoy usando es basico y no tieno mas funcion que el encriptodo de los bloque
